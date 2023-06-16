@@ -29,7 +29,6 @@ This repository hosts a list of the publicly available artifacts related to PLC 
 | 12 | [CLIK](https://gitlab.com/hyunguk/clik)                           | Attack         | Clik on plcs! attacking control logic with decompilation and virtual plc                                                     | 2019 |
 | 13 | [ICS-SDN](https://github.com/Cyphysecurity/ICS-SDN)                        | Defense | A virtual environment for industrial control systems: A nonlinear use-case in attack detection, identification, and response | 2018 |
 | 14 | [CPS-Twinning](https://github.com/sbaresearch/cps-twinning)                   | Defense | Towards security-aware virtual environments for digital twins                                                                | 2018 |
-
 | 16 | [OpenPLC](https://github.com/thiagoralves/OpenPLC_v3)                        | Defense | Securing scada applications using openplc with end-to-end encryption                                                         | 2017 |
 | 17 | [PLCInject](https://github.com/SCADACS/PLCinject)                      | Attack         | Internet-facing PLCs-a new back orifice                                                                                      | 2015 |
 | 18 | [Attacking ControlLogix](https://drive.google.com/file/d/1Ch_1PvDYd1QYcdhZr9NhtpuSGcbnhW1v/view)         | Attack         | Project Basecamp–attacking ControlLogix                                                                                      | 2012 |

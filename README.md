@@ -14,14 +14,7 @@ If you would like to add a new artifact to the below table please send a Pull Re
 
 |  # |          Artifact Name         |     Method     |                                                             Paper                                                            | Year |
 |:--:|:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------------:|:----:|
-| 1 | [Backdoor Attack](https://github.com/scy-phy/backdoorCPSS23)                  | Attack         | ``` tex
-@inproceedings{placeholder,
- author    = {placeholder},
- booktitle = {placeholder},
- title     = {placeholder},
- year      = {placeholder}
-}
-``` Attacks                                                                                           | 2023 |
+| 1 | [Backdoor Attack](https://github.com/scy-phy/backdoorCPSS23)                  | Attack         | Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks                                                                                           | 2023 |
 | 2 | [ICSPatch](https://github.com/momalab/ICSPatch)                  | Defense         | ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs                                                                                           | 2023 |
 | 3 | [OPC-UA Attack](https://github.com/scy-phy/OPC-UA-attacks-POC)                  | Attack         | Security Analysis of Vendor Implementations of the OPC UA Protocol for Industrial Control Systems                                                                                           | 2022 |
 | 4  | [D-Box](https://github.com/RiS3-Lab/D-Box)                          | Defense | D-Box: DMA-enabled Compartmentalization for Embedded Applications                                                            | 2022 |

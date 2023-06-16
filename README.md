@@ -10,7 +10,7 @@ This repository hosts a list of the publicly available artifacts related to PLC 
 
 If you would like to add a new artifact to the below table please send a Pull Request using the provided template.
 
-### Attack and Defense Methods
+## Attack and Defense Methods
 
 |  # |          Artifact Name         |     Method     |                                                             Paper                                                            | Year |
 |:--:|:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------------:|:----:|

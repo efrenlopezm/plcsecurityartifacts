@@ -6,8 +6,9 @@ This repository hosts a list of the publicly available artifacts related to PLC 
 * Provide the research community with a centralized PLC security artifact list.
 * Encourage and foster other authors to release their research artifacts so that the community can replicate results and built upon them.
 
+## How to contribute?
 
-
+If you would like to add a new artifact to the below table please send a Pull Request using the provided template.
 
 ### Attack and Defense Methods
 
@@ -36,11 +37,6 @@ This repository hosts a list of the publicly available artifacts related to PLC 
 | 21 | [Exploiting S7](https://paper.bobylive.com/Meeting_Papers/BlackHat/USA-2011/BH_US11_Beresford_S7_PLCs_WP.pdf)                  | Attack         | Exploiting siemens simatic s7 plcs                                                                                           | 2011 |
 
 
-### Honeypots
-
-### Fuzzing, Binary Analysis, Reverse Engineering
-
-| 15 | ICSREF[ICS Fingerprinting](https://github.com/momalab/ICS_research_resources)                         | Defense | ICSREF: A framework for automated reverse engineering of industrial control systems binaries                                 | 2018 |
 
 ## Research Paper
 

@@ -1,5 +1,12 @@
 # PLC Security Research Artifacts
 
+<div align="center">
+  <kbd>
+    <img src="img/logo.jpeg" />
+  </kbd>
+</div>
+<br />
+
 This repository hosts a list of the publicly available artifacts related to PLC security research. The purpose of this repository is:
 
 * Highlight and recognize the authors who have put in the effort to release their research artifacts (source code, experimental data, etc). 
